@@ -1,0 +1,4 @@
+"/Users/techwizmatt/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5233.103/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/Users/techwizmatt/Qt/5.12.6/clang_64/lib/cmake -G "CodeBlocks - Unix Makefiles" "/Volumes/Data/C Development/HelloWorld"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/Data/C Development/HelloWorld/cmake-build-debug
